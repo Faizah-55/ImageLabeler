@@ -134,7 +134,9 @@ Detected Labels:
 Cat - Confidence: 98.31%
 Pet - Confidence: 93.12%
 Animal - Confidence: 90.14%
-<img width="1290" height="874" alt="Screenshot 2025-12-04 015042" src="https://github.com/user-attachments/assets/c7b9d761-8027-4ae8-be80-924580b72a0e" />
+
+
+
 
 
 
