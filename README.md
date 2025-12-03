@@ -137,4 +137,6 @@ Animal - Confidence: 90.14%
 
 
 
+<img width="1290" height="874" alt="Screenshot 2025-12-04 015042" src="https://github.com/user-attachments/assets/8d55ecd9-eb6a-4f0a-88d5-cdf2c0ebf522" />
+
 
